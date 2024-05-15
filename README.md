@@ -66,6 +66,7 @@ endmodule
 ![image](https://github.com/23004426/ENCODER8TO3DATAFLOW/assets/144979327/13c0e2f7-1ec8-4abd-a9f6-c3a56aec7d36)
 
 **RESULTS**
+
 Thus the Encoder 8 to 3 dataflow circuits are designed and the truth tables is verified using Quartus software.
 
 
